@@ -1,8 +1,3 @@
-## Hello 👋
-
-<p>I'm a Cybersecurity Professional with hands-on experience in offensive and defensive security. I love breaking into systems, and I love teaching people how to defend against it. </p>
-
-
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
 [Linux Log Analysis](https://github.com/nu11ed/Linux-Log-Analysis)
