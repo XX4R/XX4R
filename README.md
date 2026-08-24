@@ -4,9 +4,9 @@
 
 [Linux Log Analysis](https://github.com/nu11ed/Linux-Log-Analysis)
 
-[Linux Privilege Escalation](https://github.com/nu11ed/Linux-Privilege-Escalation)
+[Cracking Admin Panel with weak credentials](https://github.com/XX4R/Cracking-admin-panel-with-weak-credentials)
 
-[Nmap](https://github.com/nu11ed/nmap)
+[Linux Privilege Escalation](https://github.com/nu11ed/Linux-Privilege-Escalation)
 
 [Finding an IDOR Vulnerability](https://github.com/nu11ed/Exploiting-an-IDOR-Vulnerability)
 
