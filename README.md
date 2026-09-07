@@ -2,6 +2,8 @@
 
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
+[Compromise Windows Machine with EternalRomance](https://github.com/XX4R/EternalRomance-Exploit-Against-Windows-Machine)
+
 [Linux Log Analysis](https://github.com/nu11ed/Linux-Log-Analysis)
 
 [Cracking Admin Panel with weak credentials](https://github.com/XX4R/Cracking-admin-panel-with-weak-credentials)
