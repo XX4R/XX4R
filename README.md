@@ -6,7 +6,7 @@
 
 [Linux Log Analysis](https://github.com/XX4R/Linux-Log-Analysis)
 
-[Web-App-Pentest-Weak-Admin-Credentials
+[WebApp Pentesting Weak Admin Credentials
 ](https://github.com/XX4R/Web-App-Pentest-Weak-Admin-Credentials
 )
 
@@ -14,7 +14,9 @@
 
 [Finding an IDOR Vulnerability](https://github.com/XX4R/Exploiting-an-IDOR-Vulnerability)
 
-[Digital Forensics With Autopsy](https://github.com/XX4R/Digital-Forensics-Analysis-Using-Autopsy)
+[Disk forensic examination using Autopsy
+](https://github.com/XX4R/Disk-forensic-examination-using-Autopsy
+)
 
 <h1>💻IT/Help Desk Projects</h1>
 
