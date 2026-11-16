@@ -14,7 +14,7 @@
 
 [Finding an IDOR Vulnerability](https://github.com/XX4R/Exploiting-an-IDOR-Vulnerability)
 
-[Disk forensic examination using Autopsy
+[Disk Forensic Examination Using Autopsy
 ](https://github.com/XX4R/Disk-forensic-examination-using-Autopsy
 )
 
