@@ -6,7 +6,9 @@
 
 [Linux Log Analysis](https://github.com/XX4R/Linux-Log-Analysis)
 
-[Cracking Admin Panel with weak credentials](https://github.com/XX4R/Cracking-admin-panel-with-weak-credentials)
+[Web-App-Pentest-Weak-Admin-Credentials
+](https://github.com/XX4R/Web-App-Pentest-Weak-Admin-Credentials
+)
 
 [Linux Privilege Escalation](https://github.com/XX4R/Linux-Privilege-Escalation)
 
