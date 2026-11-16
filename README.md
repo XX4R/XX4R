@@ -2,7 +2,7 @@
 
 <h1>🧑🏽‍💻Cybersecurity Projects</h1>
 
-[Compromise Windows Machine with EternalRomance](https://github.com/XX4R/EternalRomance-Exploit-Against-Windows-Machine)
+[MS17-010-SMBv1-Lab](https://github.com/XX4R/MS17-010-SMBv1-Lab)
 
 [Linux Log Analysis](https://github.com/nu11ed/Linux-Log-Analysis)
 
